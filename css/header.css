@@ -1,0 +1,17 @@
+.search-pokemon{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    justify-content: center;
+    width: 260px;
+    height: 100px;
+    background-color: #1F073D;
+    border-radius: 50%;
+    color: gray;
+}
+ 
+
+.div-Logo{
+    width: 100%;
+}
+

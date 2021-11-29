@@ -1,0 +1,28 @@
+body{
+    background-color: mediumslateblue;
+  background-image:url(../img/avatar-pokemon.jpg);
+  object-fit: contain;
+}
+
+@media only screen and (max-width: 500px) {
+    body{
+        background-image: url(../img/avatar-pokemon.jpg);
+        background-repeat: no-repeat;
+        object-fit: contain;
+        
+    }
+}
+
+.Avatar{
+max-width:500px;
+
+}
+
+.main-page{
+    display: flex;
+    justify-content: center;
+}
+.Logo{
+    width: 60px;
+    height: 60px;
+}
