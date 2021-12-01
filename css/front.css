@@ -1,7 +1,8 @@
 body{
     background-color: mediumslateblue;
   background-image:url(../img/avatar-pokemon.jpg);
-  object-fit: contain;
+  object-fit: contain; 
+  margin-top: auto;
 }
 
 @media only screen and (max-width: 500px) {
@@ -9,6 +10,10 @@ body{
         background-image: url(../img/avatar-pokemon.jpg);
         background-repeat: no-repeat;
         object-fit: contain;
+        margin-top: auto;
+        width: 403px;
+        height: 411px;
+
         
     }
 }
@@ -25,4 +30,5 @@ max-width:500px;
 .Logo{
     width: 60px;
     height: 60px;
+    margin-left: 121px;
 }

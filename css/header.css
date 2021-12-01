@@ -1,12 +1,12 @@
 .search-pokemon{
     display: flex;
     align-items: center;
-    margin-left: 10px;
+    margin-left:36px;
     justify-content: center;
-    width: 260px;
+    width: 234px;
     height: 100px;
     background-color: #1F073D;
-    border-radius: 50%;
+    border-radius: 31%;
     color: gray;
 }
  
